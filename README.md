@@ -1,4 +1,4 @@
-# 🚀 DevOps Automation: Provisioning AWS EC2 with Shell Scripting
+# DevOps Automation: Provisioning AWS EC2 with Shell Scripting
 
 This project demonstrates how to **automate the provisioning of an AWS EC2 instance** using a Bash shell script and AWS CLI. It includes checks for the CLI installation, downloads it if necessary, and then launches an EC2 instance using user-specified parameters.
 
